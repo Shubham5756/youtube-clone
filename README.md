@@ -1,4 +1,48 @@
-# React + Vite
+# 
+YOUTUBE CLONE
+to run this project youtube api key is necessory.
+
+Description:
+In this project I used multiple concepts of react-js.I used react router(Link,useParam()),hooks,states,propes,API fetching,API key,
+map method,moment package and multiple concepts of css as well.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
